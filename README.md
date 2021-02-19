@@ -1,2 +1,2 @@
 # Apk-Concert-Ticketing
-Project
+Aplikasi dekstop tiket menggunakan Java
